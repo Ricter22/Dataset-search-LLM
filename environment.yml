@@ -1,0 +1,35 @@
+name: dsllm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - ipykernel
+  - jupyter
+  - tqdm
+  - pip
+  - numpy
+  - scikit-learn
+  - pip:
+    # Profiling and dataset utilities
+    - ydata-profiling
+    # datamart_profiler may be a PyPI package named 'datamart-profiler' or a local/internal package.
+    # If the package name differs, install the appropriate package or remove this line.
+    - datamart-profiler
+    # OpenAI SDK and dotenv for API keys
+    - openai
+    - python-dotenv
+    # Chroma DB client used in notebooks
+    - chromadb
+    # Text search / ranking used in benchmark notebooks
+    - rank_bm25
+    - trectools
+    # Utility libraries
+    - regex
+    - more-itertools
+
+# Notes:
+# - If you have mamba installed, prefer `mamba env create -f environment.yml` for faster installs.
+# - If any package (for example `datamart-profiler`) is not available on PyPI under the shown name,
+#   remove it from the pip list and install the package manually (for example via `pip install /path/to/pkg`).

@@ -8,6 +8,8 @@ from dotenv import load_dotenv
 from openai import OpenAI
 import json
 
+#this function is used to generate the data profile from the dataset in CSV format
+#then proceed to extract the information we need, the output will be text
 def generate_data_profile(file_path):
     df = pd.read_csv(file_path)
 
@@ -69,6 +71,9 @@ def generate_data_profile(file_path):
     return final_profile_summary
 
 
+
+#calls openAI api  you can select prompt and model
+#returns the answer
 def call_openai_api(prompt, model):
     #setup OpenAI API
     load_dotenv()
@@ -121,7 +126,6 @@ RESPONSE_EXAMPLE_SEMANTIC = """
     }
     """
 
-#qui lavoriamo la singola colonna!
 
 def generate_prompt(DATA_PROFILE, TEMPLATE, RESPONSE_EXAMPLE):
     prompt = f"""
