@@ -1,3 +1,1 @@
-Dataset Discovery
-
-Il file grande di 206MB di datasearch_e_collection.jsonl è su one drive sdu
+Official repository for the paper: A Tabular Data Findability Approach Using Retrieval-Augmented Large Language Models
