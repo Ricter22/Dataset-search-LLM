@@ -1,0 +1,19 @@
+{
+  "selection_method": "greedy_by_tabular_relevance",
+  "target_corpus_size": 250,
+  "achieved_corpus_size": 265,
+  "min_rel_level": 1,
+  "selected_queries": [
+    "DS2-E-0005",
+    "DS2-E-0032",
+    "DS2-E-0001",
+    "DS2-E-0007",
+    "DS2-E-0051",
+    "DS2-E-0048",
+    "DS2-E-0017",
+    "DS2-E-0029",
+    "DS2-E-0049",
+    "DS2-E-0004"
+  ],
+  "selection_metrics_version": 1
+}

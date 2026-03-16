@@ -1,1 +1,34 @@
 .env
+.ipynb_checkpoints/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# Local vector stores and generated retrieval state
+chroma/
+**/chroma/
+**/chroma_ntcir15_eval/
+**/target_recovery_results*/
+**/artifacts/
+**/artifacts_live/
+**/artifacts_smoke/
+
+# Local datasets and benchmark byproducts
+**/datasets_subset_raw/
+**/evaluation_ready_pack/datasets/
+**/datasets/
+**/datasets_90_csv/
+allfiles.txt
+dataset_info_benchmark.pkl
+filtered_matching_lines.txt
+instructions_dict.pkl
+instructions_dict_nl.pkl
+qrels.txt
+qrels_filtered_by_reranking.txt
+qrels_filtered_by_result.txt
+qrels_filtered_by_result_nl.txt
+reranking_output.txt
+reranking_output_clean.txt
+results.txt
+results_nl.txt
+desktop.ini

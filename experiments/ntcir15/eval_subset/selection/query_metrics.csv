@@ -1,0 +1,59 @@
+rank,query_id,query_text,judged_total,judged_tabular,judged_tabular_ratio,rel_l1plus_total,rel_l1plus_tabular,rel_tabular_ratio
+1,DS2-E-0005,us states hospital differences,116,40,0.344828,30,29,0.966667
+2,DS2-E-0032,employment rate us,126,51,0.404762,32,28,0.875000
+3,DS2-E-0001,causes of death us 1999-2016,80,32,0.400000,19,19,1.000000
+4,DS2-E-0007,leading causes of death,87,30,0.344828,18,18,1.000000
+5,DS2-E-0051,us crime rate drop 25 years,125,33,0.264000,14,14,1.000000
+6,DS2-E-0048,suicide rate in mountains,112,38,0.339286,11,11,1.000000
+7,DS2-E-0017,snap recipients exempt work programs,110,38,0.345455,15,10,0.666667
+8,DS2-E-0029,us owned rented homes 2013,97,33,0.340206,10,8,0.800000
+9,DS2-E-0049,percentage ocean floor investigated,117,20,0.170940,20,8,0.400000
+10,DS2-E-0004,tuition fee private elementary school,117,23,0.196581,8,6,0.750000
+11,DS2-E-0050,number companies july 2009,140,46,0.328571,5,5,1.000000
+12,DS2-E-0030,troops died 2001-2012,107,33,0.308411,5,5,1.000000
+13,DS2-E-0012,household income increasing,98,17,0.173469,12,5,0.416667
+14,DS2-E-0009,annual turnover care workers,123,47,0.382114,6,4,0.666667
+15,DS2-E-0034,air quality baltimore,102,39,0.382353,5,4,0.800000
+16,DS2-E-0003,office nearest park,110,27,0.245455,13,4,0.307692
+17,DS2-E-0047,morning home energy use,116,23,0.198276,8,4,0.500000
+18,DS2-E-0053,world few automated weather stations,105,9,0.085714,18,3,0.166667
+19,DS2-E-0037,civil servant income,115,46,0.400000,3,2,0.666667
+20,DS2-E-0038,universities saudi-sourced funding 2012,117,33,0.282051,3,2,0.666667
+21,DS2-E-0058,percentage hispanics completed high school 2006,110,28,0.254545,4,2,0.500000
+22,DS2-E-0026,family of 4 food expenditures,119,27,0.226891,4,2,0.500000
+23,DS2-E-0041,state largest population movement 2011 2012,119,24,0.201681,3,2,0.666667
+24,DS2-E-0010,average savings 2017,114,23,0.201754,2,2,1.000000
+25,DS2-E-0022,elderly population,118,20,0.169492,2,2,1.000000
+26,DS2-E-0020,gasoline pipelines in my area,101,14,0.138614,5,2,0.400000
+27,DS2-E-0036,manufacturing workers 2014,99,51,0.515152,3,1,0.333333
+28,DS2-E-0057,children 2005,100,42,0.420000,1,1,1.000000
+29,DS2-E-0028,foreigners in us 2017,132,38,0.287879,1,1,1.000000
+30,DS2-E-0056,online spending increasing year by year,123,36,0.292683,1,1,1.000000
+31,DS2-E-0023,household consumption september 2017,104,33,0.317308,6,1,0.166667
+32,DS2-E-0024,parks with restrooms nyc,116,33,0.284483,1,1,1.000000
+33,DS2-E-0011,supermarket accessibility oregon,106,24,0.226415,2,1,0.500000
+34,DS2-E-0042,north korea rank electricity production,122,24,0.196721,1,1,1.000000
+35,DS2-E-0027,book spending declining,103,23,0.223301,1,1,1.000000
+36,DS2-E-0025,federal student loans outstanding increasing,106,19,0.179245,8,1,0.125000
+37,DS2-E-0033,common white names 2012,127,19,0.149606,1,1,1.000000
+38,DS2-E-0054,risk raw under-cooked oysters,115,9,0.078261,5,1,0.200000
+39,DS2-E-0040,correlation cos levels life expectancy,115,8,0.069565,3,1,0.333333
+40,DS2-E-0045,asian orphans adopted by us citizens,122,56,0.459016,0,0,0.000000
+41,DS2-E-0016,2017 murder cases,109,51,0.467890,0,0,0.000000
+42,DS2-E-0044,food stamps 2013 to 2016,116,35,0.301724,0,0,0.000000
+43,DS2-E-0021,sexual harassment decrease 2007-2015,123,34,0.276423,0,0,0.000000
+44,DS2-E-0015,immigrants us country 2002,120,33,0.275000,0,0,0.000000
+45,DS2-E-0046,annual consumption avocado us 40 years,126,29,0.230159,0,0,0.000000
+46,DS2-E-0008,past three months score oceanic nino index,120,24,0.200000,4,0,0.000000
+47,DS2-E-0013,arsenic in california,102,20,0.196078,2,0,0.000000
+48,DS2-E-0035,nonconsensual sex last 12 months,120,20,0.166667,0,0,0.000000
+49,DS2-E-0043,more female first names male first names us,122,19,0.155738,0,0,0.000000
+50,DS2-E-0018,average height weight 20 years old man,131,19,0.145038,0,0,0.000000
+51,DS2-E-0014,university graduate percentage,114,18,0.157895,3,0,0.000000
+52,DS2-E-0031,2013 volunteer hours increased 2002,107,16,0.149533,0,0,0.000000
+53,DS2-E-0019,bank-owned atms new york,125,16,0.128000,0,0,0.000000
+54,DS2-E-0052,average american move,132,16,0.121212,0,0,0.000000
+55,DS2-E-0006,baby formula recalled,78,11,0.141026,0,0,0.000000
+56,DS2-E-0039,u3o8 yeelirrie deposit,103,11,0.106796,0,0,0.000000
+57,DS2-E-0055,roads walkable,120,6,0.050000,54,0,0.000000
+58,DS2-E-0002,most active tectonic fault mount rainier,91,4,0.043956,0,0,0.000000

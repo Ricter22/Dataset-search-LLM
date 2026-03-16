@@ -1,0 +1,115 @@
+{
+  "selected_queries_count": 10,
+  "selected_queries": [
+    "DS2-E-0005",
+    "DS2-E-0032",
+    "DS2-E-0001",
+    "DS2-E-0007",
+    "DS2-E-0051",
+    "DS2-E-0048",
+    "DS2-E-0017",
+    "DS2-E-0029",
+    "DS2-E-0049",
+    "DS2-E-0004"
+  ],
+  "downloaded_dataset_ids_count": 111,
+  "qrels_lines": 159,
+  "qrels_label_distribution": {
+    "L0": 82,
+    "L1": 63,
+    "L2": 14
+  },
+  "datasets_folders_copied": 111,
+  "per_query": [
+    {
+      "query_id": "DS2-E-0005",
+      "dataset_ids": 4,
+      "qrels_lines": 4,
+      "L0": 1,
+      "L1": 2,
+      "L2": 1,
+      "L1_plus": 3
+    },
+    {
+      "query_id": "DS2-E-0032",
+      "dataset_ids": 16,
+      "qrels_lines": 16,
+      "L0": 12,
+      "L1": 4,
+      "L2": 0,
+      "L1_plus": 4
+    },
+    {
+      "query_id": "DS2-E-0001",
+      "dataset_ids": 28,
+      "qrels_lines": 28,
+      "L0": 9,
+      "L1": 12,
+      "L2": 7,
+      "L1_plus": 19
+    },
+    {
+      "query_id": "DS2-E-0007",
+      "dataset_ids": 26,
+      "qrels_lines": 26,
+      "L0": 8,
+      "L1": 15,
+      "L2": 3,
+      "L1_plus": 18
+    },
+    {
+      "query_id": "DS2-E-0051",
+      "dataset_ids": 17,
+      "qrels_lines": 17,
+      "L0": 10,
+      "L1": 5,
+      "L2": 2,
+      "L1_plus": 7
+    },
+    {
+      "query_id": "DS2-E-0048",
+      "dataset_ids": 23,
+      "qrels_lines": 23,
+      "L0": 12,
+      "L1": 11,
+      "L2": 0,
+      "L1_plus": 11
+    },
+    {
+      "query_id": "DS2-E-0017",
+      "dataset_ids": 3,
+      "qrels_lines": 3,
+      "L0": 2,
+      "L1": 1,
+      "L2": 0,
+      "L1_plus": 1
+    },
+    {
+      "query_id": "DS2-E-0029",
+      "dataset_ids": 17,
+      "qrels_lines": 17,
+      "L0": 13,
+      "L1": 4,
+      "L2": 0,
+      "L1_plus": 4
+    },
+    {
+      "query_id": "DS2-E-0049",
+      "dataset_ids": 16,
+      "qrels_lines": 16,
+      "L0": 8,
+      "L1": 8,
+      "L2": 0,
+      "L1_plus": 8
+    },
+    {
+      "query_id": "DS2-E-0004",
+      "dataset_ids": 9,
+      "qrels_lines": 9,
+      "L0": 7,
+      "L1": 1,
+      "L2": 1,
+      "L1_plus": 2
+    }
+  ]
+}
